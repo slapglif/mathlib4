@@ -9,6 +9,7 @@ public import Mathlib.AlgebraicGeometry.EllipticCurve.Weierstrass
 public import Mathlib.LinearAlgebra.Matrix.Notation
 public import Mathlib.RingTheory.MvPolynomial.Homogeneous
 public import Mathlib.Tactic.Ring.NamePolyVars
+public import Mathlib.Algebra.MvPolynomial.CommRing
 
 /-!
 # The addition-and-subtraction map on x-coordinates

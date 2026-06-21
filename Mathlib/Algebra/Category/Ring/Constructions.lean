@@ -15,6 +15,7 @@ public import Mathlib.CategoryTheory.Limits.Shapes.Pullback.IsPullback.Basic
 import Mathlib.RingTheory.FreeCommRing
 import Mathlib.Algebra.Ring.Subring.Units
 import Mathlib.CategoryTheory.Adjunction.Limits
+import Mathlib.CategoryTheory.ConcreteCategory.Elementwise
 
 /-!
 # Constructions of (co)limits in `CommRingCat`

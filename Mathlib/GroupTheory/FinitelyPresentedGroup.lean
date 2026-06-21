@@ -13,7 +13,6 @@ public import Mathlib.GroupTheory.FreeGroup.Basic
 public import Mathlib.GroupTheory.Coprod.Basic
 public import Mathlib.GroupTheory.PresentedGroup
 public import Mathlib.GroupTheory.QuotientGroup.Basic
-public import Mathlib.Logic.Equiv.Fin.Basic
 
 /-!
 # Finitely Presented Groups

@@ -7,7 +7,6 @@ module
 
 public import Mathlib.RingTheory.Invariant.Defs
 public import Mathlib.RingTheory.IntegralClosure.IntegralRestrict
-public import Mathlib.RingTheory.LocalRing.ResidueField.Ideal
 
 /-!
 # Invariant Extensions of Rings

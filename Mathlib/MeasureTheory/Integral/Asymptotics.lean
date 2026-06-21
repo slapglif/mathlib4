@@ -6,7 +6,7 @@ Authors: Lawrence Wu
 module
 
 public import Mathlib.MeasureTheory.Group.Measure
-public import Mathlib.MeasureTheory.Integral.Bochner.ContinuousLinearMap
+public import Mathlib.MeasureTheory.Integral.Bochner.Set
 
 /-!
 # Bounding of integrals by asymptotics

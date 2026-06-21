@@ -7,6 +7,7 @@ module
 
 public import Mathlib.CategoryTheory.Action.Basic
 public import Mathlib.RepresentationTheory.Continuous.Basic
+public import Mathlib.Algebra.Category.ModuleCat.Topology.Basic
 
 /-!
 # Topological representations
